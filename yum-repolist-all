@@ -1,0 +1,17 @@
+repo id                                          repo name              status
+docker-ce-nightly                                Docker CE Nightly - x8 enabled
+docker-ce-nightly-debuginfo                      Docker CE Nightly - De disabled
+docker-ce-nightly-source                         Docker CE Nightly - So disabled
+docker-ce-stable                                 Docker CE Stable - x86 enabled
+docker-ce-stable-debuginfo                       Docker CE Stable - Deb disabled
+docker-ce-stable-source                          Docker CE Stable - Sou enabled
+docker-ce-test                                   Docker CE Test - x86_6 enabled
+docker-ce-test-debuginfo                         Docker CE Test - Debug disabled
+docker-ce-test-source                            Docker CE Test - Sourc enabled
+microsoft-azure-rhel8-eus                        Microsoft Azure RPMs f enabled
+rhel-8-for-x86_64-appstream-eus-rhui-debug-rpms  Red Hat Enterprise Lin enabled
+rhel-8-for-x86_64-appstream-eus-rhui-rpms        Red Hat Enterprise Lin enabled
+rhel-8-for-x86_64-appstream-eus-rhui-source-rpms Red Hat Enterprise Lin enabled
+rhel-8-for-x86_64-baseos-eus-rhui-debug-rpms     Red Hat Enterprise Lin enabled
+rhel-8-for-x86_64-baseos-eus-rhui-rpms           Red Hat Enterprise Lin enabled
+rhel-8-for-x86_64-baseos-eus-rhui-source-rpms    Red Hat Enterprise Lin enabled
